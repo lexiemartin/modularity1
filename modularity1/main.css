@@ -1,0 +1,117 @@
+.listTable {
+	width: 100%;
+}
+
+.listTable tr {
+}
+
+.listTable td {
+	border-bottom: 1px solid #888888;
+	padding: 5px;
+}
+/*
+.listTable tr:last-child {
+	border-bottom: 1px solid red;
+}*/
+/*
+.listItem {
+	padding-right: 5em;
+	border-bottom: 1px solid #888888;
+}
+*/
+.listHeader {
+	font-weight: bold;
+	border-bottom: 1px solid #888888;
+}
+
+.largeText {
+	font-weight: 700;
+	font-size: 50px;
+}
+
+.showStats {
+	border-top: 1px solid #888888;
+	border-bottom: 1px solid #888888;
+}
+
+.showStats td {
+	padding: 20px;
+}
+
+.lightText {
+	color: #888888;
+	font-weight: lighter;
+}
+
+.barGraph {
+	width: 100%;
+}
+
+.barLine {
+	background-color: #046380;
+	line-height: 20px;
+	height: 20px;
+	font-size: 14px;
+	padding: 4px;
+	color: white;
+	border-radius: 4px;
+}
+
+.barLabel {
+	text-align: right;
+	width: 100px;
+	padding: 6px;
+}
+/*
+.lightbox {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: rgba(0,0,0,0.5);
+	height: 100%;
+	width: 100%;
+	display: table;
+	box-sizing: border-box;
+}
+.lightbox-inside {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.lightbox-content {
+	width: 500px;
+	background-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.lightbox-button {
+	line-height: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 5px;
+	position: relative;
+	left: 80%;
+	background-color: red;
+	text-decoration: none;
+	color: white;
+}
+*/
+
+
+.media-image {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.media-text {
+	overflow: hidden;
+}
+
+
+/* ADD YOUR STYLES HERE */
